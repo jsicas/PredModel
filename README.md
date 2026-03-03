@@ -1,9 +1,14 @@
 
+<div align="justify">
+
 # PredModel
+
+Projeto desenvolvido como parte das atividades realizadas na disciplina
+de ME918-2S-2024 (Produto de Dados) do curso de Estatística da UNICAMP.
 
 ## Introdução
 
-O Projeto PredModel oferece um pipeline automatizado para o treinamento,
+O `PredModel` oferece um pipeline automatizado para o treinamento,
 predição e análise gráfica de modelos de regressão linear e logística.
 Este guia descreve a estrutura dos arquivos do projeto, suas
 funcionalidades, e fornece um passo a passo para seu uso eficaz.
@@ -184,3 +189,5 @@ temos que o arquivo `preditores.json` deve ser configurado como:
   {"mpg":20,"drat":5}
 ]
 ```
+
+</div>
